@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/ghorsey/SHHH.Infrastructure.DependencyInjection.Ninject.WebApi</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Initial release</releaseNotes>
+    <releaseNotes>Marked as CLS compliant</releaseNotes>
     <copyright>Copyright 2013</copyright>
     <tags>SHHH WebApi Ninject</tags>
   </metadata>
