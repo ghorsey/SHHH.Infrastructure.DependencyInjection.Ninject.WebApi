@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/ghorsey/SHHH.Infrastructure.DependencyInjection.Ninject.WebApi</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Marked as CLS compliant</releaseNotes>
+    <releaseNotes>Updated dependencies, updated to .net 4.5.1</releaseNotes>
     <copyright>Copyright 2013</copyright>
     <tags>SHHH WebApi Ninject</tags>
   </metadata>
